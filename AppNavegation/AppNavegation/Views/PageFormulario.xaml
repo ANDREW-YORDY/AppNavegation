@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppNavegation.Views.PageFormulario">
+
+    <ContentPage.Content>
+
+        <StackLayout Margin="40,40,40,0">
+            
+            <Label Text="Formulario Sencillo" HorizontalOptions="Center" Margin="0,0,0,20" FontSize="Large"/>
+
+            <!--VerticalOptions="CenterAndExpand" - HorizontalOptions="CenterAndExpand"-->
+
+            <Label Text="Ingrese su Nombre: "/>
+            <Entry Placeholder="Nombre" />
+
+
+            <Label Text="Ingrese su Cédula: " />
+            <Entry Placeholder="Cédula" Keyboard="Numeric" />
+
+            <BoxView></BoxView>
+
+            <ContentView Margin="0,20,0,0" >
+                <Button Text="Registrar" CornerRadius="20"/>
+            </ContentView>
+
+        </StackLayout>
+            
+    </ContentPage.Content>
+        
+</ContentPage>

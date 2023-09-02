@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppNavegation.Views.AboutPage"
+             xmlns:vm="clr-namespace:AppNavegation.ViewModels"
+             Title="{Binding Title}">
+    
+    <ContentPage.BindingContext>
+        <vm:AboutViewModel />
+    </ContentPage.BindingContext>
+    
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="Accent">#96d1ff</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    
+    
+    <!-- CUERPO O BODY PRINCIPAL -->
+    <Grid Padding="7">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Frame  Margin="0">
+            <!-- IMAGEN DE XAMARIN GRANDE -->
+            <StackLayout  VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
+
+                <!-- IMAGEN MAIN -->
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center">
+                    <ContentView Padding="0,2,0,2" VerticalOptions="FillAndExpand"  Margin="0">
+                        <Image Source="barranquilla_ventana.jpg" VerticalOptions="Center" HeightRequest="220" />
+                    </ContentView>
+                </StackLayout>
+            </StackLayout>
+        </Frame>
+
+        
+        <!-- CUERPO O BODY SECUNDARIO-->
+        <ScrollView Grid.Row="1">
+            
+            <Frame Margin="0" Padding="0">
+                <StackLayout Orientation="Vertical" Padding="0,0,0,0" Spacing="10">
+                    <!--<StackLayout Orientation="Vertical" Padding="30,24,30,24" Spacing="10">-->
+                    
+                    <Label Text="La hermosa y cálida Barranquilla" FontSize="Subtitle" 
+                           TextTransform="Uppercase"
+                           FontAttributes="Bold"
+                           Margin="0,5,0,0"
+                           TextColor="Black"
+                           FontFamily="Arial"
+                           HorizontalTextAlignment="Center"/>
+                    
+                    <Label FontSize="13" Padding="7,0,7,0" TextColor="Black"
+                           Text="Barranquilla, es una hermosa ciudad cosmopolita, la 
+                           cual brinda al munndo su fabulosa belleza brillante, y 
+                           nos brinda su suave cariño a través de sus fuentes de 
+                           brisas. Es la ventana al mundo!" />
+
+                    <!-- BOTÓN -->
+                    <Button Margin="5,1,5,5" Text="Navegar"
+                        Padding="5"
+                            CornerRadius="20"
+                        Command="{Binding OpenWebCommand}"
+                        BackgroundColor="{StaticResource Primary}"
+                        TextColor="White" />
+
+                </StackLayout>
+            </Frame>
+
+        </ScrollView>
+        
+    </Grid>
+    
+    
+
+</ContentPage>

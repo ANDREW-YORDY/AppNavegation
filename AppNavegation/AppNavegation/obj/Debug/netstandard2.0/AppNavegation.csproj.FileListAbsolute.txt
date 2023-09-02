@@ -1,0 +1,44 @@
+C:\Users\yarde\OneDrive\Documentos\Xamarin-Learn\projects\AppNavegation\AppNavegation\bin\Debug\netstandard2.0\AppNavegation.deps.json
+C:\Users\yarde\OneDrive\Documentos\Xamarin-Learn\projects\AppNavegation\AppNavegation\bin\Debug\netstandard2.0\AppNavegation.dll
+C:\Users\yarde\OneDrive\Documentos\Xamarin-Learn\projects\AppNavegation\AppNavegation\bin\Debug\netstandard2.0\AppNavegation.pdb
+C:\Users\yarde\OneDrive\Documentos\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\AppNavegation.csproj.AssemblyReference.cache
+C:\Users\yarde\OneDrive\Documentos\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\AppNavegation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yarde\OneDrive\Documentos\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\yarde\OneDrive\Documentos\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\yarde\OneDrive\Documentos\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\yarde\OneDrive\Documentos\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\yarde\OneDrive\Documentos\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\yarde\OneDrive\Documentos\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\yarde\OneDrive\Documentos\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\yarde\OneDrive\Documentos\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\AppNavegation.AssemblyInfoInputs.cache
+C:\Users\yarde\OneDrive\Documentos\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\AppNavegation.AssemblyInfo.cs
+C:\Users\yarde\OneDrive\Documentos\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\AppNavegation.csproj.CoreCompileInputs.cache
+C:\Users\yarde\OneDrive\Documentos\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\yarde\OneDrive\Documentos\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\AppNavegation.dll
+C:\Users\yarde\OneDrive\Documentos\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\refint\AppNavegation.dll
+C:\Users\yarde\OneDrive\Documentos\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\AppNavegation.pdb
+C:\Users\yarde\OneDrive\Documentos\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\ref\AppNavegation.dll
+C:\Users\yarde\OneDrive\Documentos\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\Views\PageFormulario.xaml.g.cs
+C:\Users\yarde\OneDrive\Documentos\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\Views\VentanaEmergente.xaml.g.cs
+C:\Users\yarde\OneDrive - INTECOL\Personal\Información personal\LEARN__NO-COMPRIMIR\Xamarin-Learn\projects\AppNavegation\AppNavegation\bin\Debug\netstandard2.0\AppNavegation.deps.json
+C:\Users\yarde\OneDrive - INTECOL\Personal\Información personal\LEARN__NO-COMPRIMIR\Xamarin-Learn\projects\AppNavegation\AppNavegation\bin\Debug\netstandard2.0\AppNavegation.dll
+C:\Users\yarde\OneDrive - INTECOL\Personal\Información personal\LEARN__NO-COMPRIMIR\Xamarin-Learn\projects\AppNavegation\AppNavegation\bin\Debug\netstandard2.0\AppNavegation.pdb
+C:\Users\yarde\OneDrive - INTECOL\Personal\Información personal\LEARN__NO-COMPRIMIR\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\AppNavegation.csproj.AssemblyReference.cache
+C:\Users\yarde\OneDrive - INTECOL\Personal\Información personal\LEARN__NO-COMPRIMIR\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\AppNavegation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yarde\OneDrive - INTECOL\Personal\Información personal\LEARN__NO-COMPRIMIR\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\yarde\OneDrive - INTECOL\Personal\Información personal\LEARN__NO-COMPRIMIR\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\yarde\OneDrive - INTECOL\Personal\Información personal\LEARN__NO-COMPRIMIR\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\yarde\OneDrive - INTECOL\Personal\Información personal\LEARN__NO-COMPRIMIR\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\yarde\OneDrive - INTECOL\Personal\Información personal\LEARN__NO-COMPRIMIR\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\yarde\OneDrive - INTECOL\Personal\Información personal\LEARN__NO-COMPRIMIR\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\yarde\OneDrive - INTECOL\Personal\Información personal\LEARN__NO-COMPRIMIR\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\yarde\OneDrive - INTECOL\Personal\Información personal\LEARN__NO-COMPRIMIR\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\Views\PageFormulario.xaml.g.cs
+C:\Users\yarde\OneDrive - INTECOL\Personal\Información personal\LEARN__NO-COMPRIMIR\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\Views\VentanaEmergente.xaml.g.cs
+C:\Users\yarde\OneDrive - INTECOL\Personal\Información personal\LEARN__NO-COMPRIMIR\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\AppNavegation.AssemblyInfoInputs.cache
+C:\Users\yarde\OneDrive - INTECOL\Personal\Información personal\LEARN__NO-COMPRIMIR\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\AppNavegation.AssemblyInfo.cs
+C:\Users\yarde\OneDrive - INTECOL\Personal\Información personal\LEARN__NO-COMPRIMIR\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\AppNavegation.csproj.CoreCompileInputs.cache
+C:\Users\yarde\OneDrive - INTECOL\Personal\Información personal\LEARN__NO-COMPRIMIR\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\yarde\OneDrive - INTECOL\Personal\Información personal\LEARN__NO-COMPRIMIR\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\AppNavegation.dll
+C:\Users\yarde\OneDrive - INTECOL\Personal\Información personal\LEARN__NO-COMPRIMIR\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\refint\AppNavegation.dll
+C:\Users\yarde\OneDrive - INTECOL\Personal\Información personal\LEARN__NO-COMPRIMIR\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\AppNavegation.pdb
+C:\Users\yarde\OneDrive - INTECOL\Personal\Información personal\LEARN__NO-COMPRIMIR\Xamarin-Learn\projects\AppNavegation\AppNavegation\obj\Debug\netstandard2.0\ref\AppNavegation.dll

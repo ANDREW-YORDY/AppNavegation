@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppNavegation.Views.VentanaEmergente">
+
+    <ContentPage.Content>
+        <StackLayout Margin="40">
+            <Label Padding="5" Margin="5"
+                   FontAttributes="Bold"
+                   FontSize="Large"
+                   FontFamily="Arial"
+                   TextColor="Blue"
+                Text="Aquí se colocará, el contenido de la ventana emergente, solo como prueba, al presionar un botón en la página, 'PageFormulario'  👣."
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+
+            <!-- Contenido de la página principal -->
+            <Label Text="Aparecerá una ventana emergente" />
+
+            <!-- Botón que muestra la página emergente -->
+            <Button Text="Mostrar página" Clicked="MostrarPaginaEmergente_Clicked" CornerRadius="20" />
+            <Button Text="Ocultar página" Clicked="CerrarPaginaEmergente_Clicked" CornerRadius="20" />
+
+            <!-- Definición de la página emergente -->
+            <ContentView x:Name="paginaEmergente" IsVisible="False">
+                <StackLayout>
+                    <Label Text="Página emergente." TextColor="Blue"/>
+                    <!-- Contenido de la página emergente -->
+                    <Label TextColor="Red" Text="subterraneo."  />
+
+                </StackLayout>
+            </ContentView>
+        </StackLayout>
+
+    </ContentPage.Content>
+
+</ContentPage>
+
